@@ -36,6 +36,10 @@
      
      > python DINE_ft.py    --gpu_id 0 --seed 2021  --dset office-home --s 0 --da uda --net_src resnet50 --max_epoch 30 --net resnet50  --lr 1e-2 --output ./ckps/tar
 
+### Results:  
+
+<img src="figs/result-home.png" width="800" div align=center/>
+
 ### Citation
 
 If you find this code useful for your research, please cite our paper
