@@ -44,11 +44,11 @@
 
 If you find this code useful for your research, please cite our paper
 
-> @article{liang2021dine,  
+> @inproceedings{liang2022dine,  
 > &nbsp; &nbsp;  title={DINE: Domain Adaptation from Single and Multiple Black-box Predictors},  
 > &nbsp; &nbsp;  author={Liang, Jian and Hu, Dapeng and Feng, Jiashi and He, Ran},  
-> &nbsp; &nbsp;  journal={arxiv preprint arXiv: 2104.01539V2},   
-> &nbsp; &nbsp;  year={2021}  
+> &nbsp; &nbsp;  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},   
+> &nbsp; &nbsp;  year={2022}  
 > }
 
 ### Contact
