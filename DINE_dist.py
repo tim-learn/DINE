@@ -184,8 +184,8 @@ def train_source_simp(args):
 
             if acc_s_te >= acc_init:
                 acc_init = acc_s_te
-                best_netF = netF.state_dict()
-                best_netC = netC.state_dict()
+                best_netF = copy.deepcopy(netF.state_dict())
+                best_netC = copy.deepcopy(netC.state_dict())
 
             netF.train()
             netC.train()
